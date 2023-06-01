@@ -37,4 +37,5 @@ def place():
         w.after(timer,place)
 
 w.after(200,place)
+
 w.mainloop()

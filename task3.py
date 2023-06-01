@@ -58,4 +58,5 @@ w.bind("<Up>",keyPress)
 w.bind("<Down>",keyPress)
 w.after(1000, animate)
 
+
 w.mainloop()

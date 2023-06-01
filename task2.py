@@ -55,4 +55,5 @@ for i in data:
         county += 1
         count = 0
         countGrid = 0
+        
 w.mainloop()

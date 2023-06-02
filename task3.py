@@ -23,11 +23,11 @@ def animate(i=x):
         print(i)
     global anim, x
     if i == 1:
-        anim = tk.PhotoImage(file="assets\sprite2.png")
+        anim = tk.PhotoImage(file="assets\sprite.png")
     if i == 2:
-        anim = tk.PhotoImage(file="assets\sprite3.png")
+        anim = tk.PhotoImage(file="assets\sprite.png")
     if i == 3:
-        anim = tk.PhotoImage(file="assets\sprite4.png")
+        anim = tk.PhotoImage(file="assets\sprite.png")
     if i == 4:
         anim = tk.PhotoImage(file="assets\sprite.png")
     
